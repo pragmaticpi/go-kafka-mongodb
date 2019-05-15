@@ -1,0 +1,8 @@
+matrix:
+  include:
+    - language: go
+      go: 1.11.x
+
+notifications:
+  email:
+    - kpiyush1709@gmail.com
